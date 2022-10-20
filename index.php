@@ -12,6 +12,9 @@
             <li>bu devi</li>
             <li>bu prida</li>
             <li>bu iin</li>
+            <li>huhuhaha</li>
+            <li>hoho</li>
+            <li>hehe</li>
         </ul>
     </nav>
     
